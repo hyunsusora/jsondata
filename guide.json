@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "imageURL": "https://wac-cdn.atlassian.com/dam/jcr:f79ec55e-02d6-42ad-a994-fcce2cd1dab1/dev-tools-ticketview.png?cdnVersion=1553",
-    "title": "Jira Software Cloud 데모",
+    "imageURL": "https://wac-cdn.atlassian.com/dam/jcr:ede71922-35b1-4429-bcfe-8d0ff7c0acb7/Security.svg?cdnVersion=1548",
+    "title": "Jira Software Cloud는 SOC2를 준수하나요?",
     "info": "Atlassian Cloud는 SOC2 Type II, ISO/IEC 27001, ISO/IEC 27018 및 PCI를 포함하여 광범위하게 인정되는 표준 및 규정을 준수합니다."
   },
   {
